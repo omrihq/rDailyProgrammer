@@ -1,0 +1,1 @@
+Each file is either a medium easy or hard challenge from http://www.reddit.com/r/dailyprogrammer/. Most are written in Python 2.x
